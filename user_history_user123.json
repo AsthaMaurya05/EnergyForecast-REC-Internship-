@@ -1,0 +1,62 @@
+[
+    {
+        "region": "ER",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "region": "ER",
+        "state": "Manipur"
+    },
+    {
+        "region": "ER",
+        "state": "Meghalaya"
+    },
+    {
+        "region": "WR",
+        "state": "AMINSIL"
+    },
+    {
+        "region": "WR",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "region": "WR",
+        "state": "AMNSIL"
+    },
+    {
+        "region": "SR",
+        "state": "Bihar"
+    },
+    {
+        "region": "NR",
+        "state": "Chandigarh"
+    },
+    {
+        "region": "ER",
+        "state": "Assam"
+    },
+    {
+        "region": "NR",
+        "state": "Goa"
+    },
+    {
+        "region": "ER",
+        "state": "Railway ER ISTS"
+    },
+    {
+        "region": "NR",
+        "state": "Delhi"
+    },
+    {
+        "region": "NR",
+        "state": "Gujarat"
+    },
+    {
+        "region": "NR",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "region": "NR",
+        "state": "Haryana"
+    }
+]
